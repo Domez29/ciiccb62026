@@ -1,0 +1,20 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+package Task;
+
+public class Task2 {
+   public Task2() {
+   }
+
+   public static void main(String[] var0) {
+      boolean var1 = true;
+      byte var2 = 0;
+      byte var3 = 3;
+      byte var4 = 110;
+      String var5 = "rld";
+      char var6 = 'H';
+      char var7 = 'w';
+      float var8 = 2.0F;
+      String var9 = new String(new char[]{var6}) + var3 + var4 + " " + var7 + var2 + var5 + " " + var8 + " " + var1;
+      System.out.println(var9);
+   }
+}
