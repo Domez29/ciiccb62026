@@ -1,5 +1,3 @@
-package Task;
-
 public class Task10 {
     class Student {
     private String firstName;
