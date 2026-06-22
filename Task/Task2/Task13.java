@@ -9,7 +9,7 @@ package Task.Task2;
 // 3. Create an instance of the Car class and set values for its attributes.
 // 4. Implement a method in the Car class called display details() that print out the details of the car, including the inherited attributes from the Vehicle class.
 
-public class Task17 {
+public class Task13 {
     
     // 1. Create a base class called Vehicle
 class Vehicle {
